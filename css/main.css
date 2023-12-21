@@ -1,3 +1,14 @@
 .body{
-background-color: yellow;
+background-color:#ffcc00;
+
+}
+.fuego-chileno{
+    background-color: #ff9900;
+}
+
+.div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
