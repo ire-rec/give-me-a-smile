@@ -6,11 +6,30 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;
-
 }
+
+.face{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+}
+
+.form{
+margin-top: 20px;
+}
+
+.select{
+    width: 100%;
+    font-size: large;
+}
+
 .fuego-chileno{
     background-color: #ff9900;
 }
 
+.btn{
+    background-color: lightblue;
+    margin-top: 10px;
+    font-size: 15px;
+}
 
  
