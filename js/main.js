@@ -19,6 +19,7 @@ if (getRandomInt(100) % 2 === 0) {
 if (happyFaceOption) {
   face.innerHTML = `:)`;
 }
+
 const handleUpdateClick = (ev) => {
   ev.preventDefault();
   if (selectOneOption === "") {
