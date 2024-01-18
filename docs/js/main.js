@@ -25,7 +25,6 @@ const handleUpdateClick = (ev) => {
   if (selectOneOption === "") {
     face.innerHTML = ``;
   }
-
   if (selectOneOption !== "") {
     face.innerHTML = selectOneOption.value;
   }
